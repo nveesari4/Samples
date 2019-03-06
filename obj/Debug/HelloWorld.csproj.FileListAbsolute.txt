@@ -1,0 +1,6 @@
+C:\DataTrace_Support\SampleApps\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\DataTrace_Support\SampleApps\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\DataTrace_Support\SampleApps\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\DataTrace_Support\SampleApps\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\DataTrace_Support\SampleApps\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\DataTrace_Support\SampleApps\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
