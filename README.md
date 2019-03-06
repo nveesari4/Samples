@@ -1,0 +1,1 @@
+[![Build Status](https://nvsri.visualstudio.com/DevOpsDemo/_apis/build/status/DevOpsDemo-CI?branchName=master)](https://nvsri.visualstudio.com/DevOpsDemo/_build/latest?definitionId=1&branchName=master)
